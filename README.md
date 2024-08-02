@@ -14,7 +14,7 @@ To get started with the Daily Discovery News Network:
   4. Start the application by running "flutter run" in the terminal.
 
 ## Where users can get help with your project
-If you encounter issues or have questions about the project, you can open an issue on the GitHub repository for bugs requests.
+If you encounter issues or have questions about the project, you can open an issue on the GitHub repository for bugs requests, or contact me directly for help.
 
 ## Who maintains and contributes to the project
 The Daily Discovery News Network is currently maintained by Jasraj Sidhu. Contributions to the project are welcome, please reach out.
