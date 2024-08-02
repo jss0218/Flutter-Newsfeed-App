@@ -6,6 +6,9 @@ The Daily Discovery News Network is a dynamic mobile application built with Flut
 ## Why is this project useful?
 This project serves as a demonstration of implementing a social media newsfeed using Flutter. It showcases how to handle user interactions, and dynamically update UI components. It is particularly useful for developers looking to understand the integration of UI elements and front-end logic in mobile applications.
 
+## Explanation of design choices
+The design of the Daily Discovery News Network was crafted to offer a sleek, user-friendly interface that enhances readability and interaction, allowing users to engage with content seamlessly. The choice of dark mode aesthetics were intentional to minimize eye strain and enhance the visual appeal, ensuring a comfortable user experience for viewing with the latest posts and updates.
+
 ## How users can get started with the project
 To get started with the Daily Discovery News Network:
   1. Clone the repository to your local files.
